@@ -1,0 +1,40 @@
+---
+title: 'Kentte Yaşayan Kira, Kırda Yaşayan Gıda Derdinde'
+date: '2015-06-01T15:31:16+03:00'
+status: publish
+permalink: /2015/06/01/kentte-yasayan-kira-kirda-yasayan-gida-derdinde
+author: mert_can_duman
+excerpt: 'Türkiye İstatistik Kurumundan alınan verilerle, kentteki ve kırdaki yaşamın giderlerinin karşılaştırmalı analizi sizlerle.'
+type: post
+id: 4672
+thumbnail: ../../../../uploads/2015/06/onecikangorsel-hakimiyet.com_-1-2-150x150.jpg
+category:
+    - 'Mutluluk ve Refah İktisadı'
+    - 'Türkiye Ekonomisi'
+tag: []
+post_format: []
+post_views_count:
+    - '457'
+---
+Üzerinden 72 yıl geçmiş, Maslow’un İhtiyaçlar Hiyerarşi’sini bizimle tanıştırmasının üzerinden. Malumunuz, bir piramit şeklinde resmedilen hiyerarşinin tabanını fizyolojik gereksinimler oluştururken yukarı doğru çıkıldıkça sırasıyla güvenlik gereksinimi, ait olma, sevgi ve sevecenlik gereksinimi, saygınlık gereksinimi ve kendini gerçekleştirme gereksinimi yer almakta \[1\]. Peki her aybaşında elimize geçen gelirimizin ne kadarını bu ihtiyaçlarımızın tamamını etkin bir şekilde giderebilmek için harcayabiliyoruz? Bu sorunun cevabını TÜİK’in açıkladığı Tüketim Harcama İstatistikleri’nde \[2\] aramaya çalışacağız hemen aşağıda.  
+En güncel veri olan 2013 istatistiklerine göre Türkiye genelinde ortalama bir hanehalkı aybaşında eline geçen gelirinin dörtte birini konut ve kira giderlerine ayırıyor. Barınma giderlerini %20’lik pay ile gıda ve içecek giderleri izliyor. Buraya kadar ihtiyaçlar hiyerarşimizde bir sıkıntı yok gibi. Gelirimizin neredeyse yarısını barınmaya ve beslenmeye ayırıyoruz. Ülkemizde ortalama bir hayata sahip Ahmet Amca kazandığı 100 liranın yarısını barınma ve beslenme ihtiyaçlarına harcarken 17 lirasını ise bir yerden bir yere gitmek için yani ulaştırma hizmetlerinde harcıyor. Peki, kaliteli bir yaşam için diğer olmazsa olmaz gereksinimler nerede? Hani biraz önce aybaşında eline 100 lira geçen Ahmet Amca vardı ya, işte o Ahmet Amca kazancının yalnızca 3 lirasını eğlenceye, 2,5 lirasını eğitime ve 2 lirasını ise sağlığına harcayabiliyor.  
+<figure aria-describedby="caption-attachment-4673" class="wp-caption aligncenter" id="attachment_4673" style="width: 628px">[![Kaynak: TÜİK](../../../../uploads/2015/06/resim1-1-2-1024x621.png)](https://iktisadiyat.com/wp-content/uploads/2015/06/resim1-1-2-2.png)<figcaption class="wp-caption-text" id="caption-attachment-4673">Kaynak: TÜİK</figcaption></figure>  
+   
+<figure aria-describedby="caption-attachment-4674" class="wp-caption aligncenter" id="attachment_4674" style="width: 628px">[![Kaynak: TÜİK](../../../../uploads/2015/06/resim2-1-2-1-2024x661.png)](https://iktisadiyat.com/wp-content/uploads/2015/06/resim2-1-2-2.png)<figcaption class="wp-caption-text" id="caption-attachment-4674">Kaynak: TÜİK</figcaption></figure>  
+Peki, harcamalarımızın gelirimizden aldığı paylar zaman içerisinde nasıl değişmiş? Kategorileri biraz toplulaştırıp da 2002 ile 2013 yıllarını birbirleriyle kıyasladığımızda karşımıza ilginç sonuçlar çıkıyor. Türkiye genelinde hanehalkları 2002’ye nazaran 2013 yılına gelindiğinde daha az oranda kira ve gıda harcaması yaparken ulaştırma harcamalarının toplam içindeki payı önemli bir derecede artmış. Öyle ki 2002 yılında toplam içerisinde %8,7’lik paya sahip olan ulaştırma harcamaları 2013 yılı sonu itibariyle artık %17,4 ile toplam içerisinde neredeyse temel gereksinimlerimizden biri olan beslenme kadar paya sahip. Söz konusu dönemde giyim harcamaları 1 puan düşerken lokanta ve eğlence harcamalarını biraraya getirerek oluşturduğumuz sosyalleşme harcamaları ise 2,1 puan yükselmiş (Burada son dönemde sayıları hızla artan AVMlerin etkisi de var \[3\]). Son iki sıranın müdavimi olan eğitim ve sağlık harcamalarında ise çok büyük bir değişiklik yok. Eğitim harcamalarının payı 0,02 puan artarken sağlık harcamalarının payı ise söz konusu dönemde yalnızca 0,7 puan artmış.  
+<figure aria-describedby="caption-attachment-4675" class="wp-caption aligncenter" id="attachment_4675" style="width: 628px">[![Kaynak: TÜİK](../../../../uploads/2015/06/resim3-1-2-1024x667.png)](https://iktisadiyat.com/wp-content/uploads/2015/06/resim3-1-2-2.png)<figcaption class="wp-caption-text" id="caption-attachment-4675">Kaynak: TÜİK</figcaption></figure>  
+Genel görünüm böyle. Ya kentlerde yaşayanlar ile kırsal kesimde yaşayanlar ilgili kategorilere aynı oranda mı pay ayırıyorlar gelirlerinden? Oranlar değişse de hem kentte hem de kırda yaşayanların ilk üçü değişmiyor: sırasıyla kira, gıda ve ulaştırma. Kentte yaşayanlar kırsal kesimde yaşayanlara nazaran daha fazla sosyalleşme, giyim ve sağlık harcaması yaparken kırda yaşayanlar ise kentlilere göre alkol ve tütün ürünlerine daha fazla oranda pay ayırıyorlar gelirlerinden.  
+2002-2013 döneminde kentte yaşayanların harcama eğilimleri Türkiye geneline benzer bir şekilde değişime uğramış. Kira ve gıda harcamaları önemli oranda düşerken ulaştırma harcamaları 8,2 puan ile en fazla oranda artış gösteren harcama grubu olmuştur. Eğitim harcamaları 1,2 puan ile ülke genelinden daha yüksek bir oranda artarken gelirden alkol ve tütün ürünlerine ayrılan pay da 0,3 puan yükselmiş.  
+   
+<figure aria-describedby="caption-attachment-4676" class="wp-caption aligncenter" id="attachment_4676" style="width: 628px">[![Kaynak: TÜİK](../../../../uploads/2015/06/resim4-1-2-1024x654.png)](https://iktisadiyat.com/wp-content/uploads/2015/06/resim4-1-2-2.png)<figcaption class="wp-caption-text" id="caption-attachment-4676">Kaynak: TÜİK</figcaption></figure>  
+Aynı dönemde kırda yaşayan hanehalklarının harcamalarının değişimi de aşağıda verilmiştir. Kira ve gıda harcamalarındaki azalmanın miktarı kentte yaşayanlara göre daha sınırlı kalsa da ulaştırma harcamalarının payı hem kentte yaşayanlardan hem de ülke genelinden daha yüksek bir oranda artmış (%9,6). Giyim harcamalarının payı 2002 yılından 2013 yılına gelindiğinde 1,1 puan gerilerken kira ve gıda harcamalarından sonra en önemli gerileme sağlık harcamalarında görülmektedir. 2002 yılında toplam içerisinde %2,7 paya sahip sağlık harcamaları 2013 yılına gelindiğinde yalnızca %1 paya sahip hale gelmiştir.  
+<figure aria-describedby="caption-attachment-4677" class="wp-caption aligncenter" id="attachment_4677" style="width: 628px">[![resim5](../../../../uploads/2015/06/resim5-1-2-1024x663.png)](https://iktisadiyat.com/wp-content/uploads/2015/06/resim5-1-2-2.png)<figcaption class="wp-caption-text" id="caption-attachment-4677">Kaynak: TÜİK</figcaption></figure>  
+Harcama eğilimini bir de gelir durumuna ve bölgelere göre incelediğimizde ortaya ilginç sonuçlar çıkıyor. Temsil yeteneğinin güçlü olduğuna inandığımız İstanbul bölgesi için gelir durumuna göre harcama eğilimlerine baktığımızda en yüksek gelire (YG) sahip %20’lik kesimin en düşük gelire sahip %20’lik kesime (DG) göre sağlık, eğitim ve ulaştırma kategorilerinde daha yüksek oranda harcama yaptığı; en düşük gelire sahip kesimin daha ziyade gıda ve konuta harcama yaptığı görülüyor. Öyle ki YG grubunun eğitim harcamalarına ayırdığı pay %5,2 iken bu oran DG grubu için %1,1 oranında; yine YG grubunun eğlence harcamalarına ayırdığı pay %4,4 iken DG grubu için bu oran %1,7 düzeyinde gerçekleşmiştir. DG grubu için kira harcamaları %39,4 oranında gerçekleşirken bu oran YG grubu için %25,4’e düşüyor.  
+Son olarak bölgelere göre harcama eğilimine yer verelim. Harcama istatistiklerinde yer alan kategorilere en fazla oranda pay ayıran bölgeler ve oranları aşağıda verilmiştir.  
+<figure aria-describedby="caption-attachment-4679" class="wp-caption aligncenter" id="attachment_4679" style="width: 300px">[![Kaynak: TÜİK](../../../../uploads/2015/06/resim6-1-2-300x148.png)](https://iktisadiyat.com/wp-content/uploads/2015/06/resim6-1-2-2.png)<figcaption class="wp-caption-text" id="caption-attachment-4679">Kaynak: TÜİK</figcaption></figure>  
+   
+**Kaynaklar**  
+**\[1\]** Maslow, A. H. (1943). A Theory of Human Motivation. Psychological Review, 50, 370-396.  
+**\[2\]** TÜİK, Tüketim Harcama İstatistikleri,  
+http://www.tuik.gov.tr/PreHaberBultenleri.do?id=16202.  
+**\[3\]** Duman, M. C. (2014). Türkiye’de (Neden Bu Kadar) Çok AVM Var?¸ İktisat ve Toplum, 40. Sayı, 27-33.

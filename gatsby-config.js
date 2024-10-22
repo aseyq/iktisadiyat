@@ -20,6 +20,7 @@ module.exports = {
       twitter: `kylemathews`,
     },
   },
+  pathPrefix: "/iktisadiyat",
   plugins: [
     `gatsby-plugin-image`,
     {
@@ -29,6 +30,7 @@ module.exports = {
         name: `blog`,
       },
     },
+    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
