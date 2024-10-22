@@ -9,15 +9,15 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `İktisadiyat Test Yayını`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Iktisadiyat`,
+      summary: `Ailenizin ekonomi blogu, yirmikaçıncı zafer yılında sizlerle.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `İktisat. Hayat. İktisadiyat.`,
+    siteUrl: `https://iktisadiyat-test.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `iktisadiyat`,
     },
   },
   pathPrefix: "/iktisadiyat",
